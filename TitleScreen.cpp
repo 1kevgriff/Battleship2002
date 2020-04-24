@@ -1,6 +1,6 @@
-#include <iostream.h>
+#include <iostream>
 #include <windows.h>
-#include "b:\jared shields\utils.h"
+#include "utils.h"
 
 void TitleScreen()
 {

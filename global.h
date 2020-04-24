@@ -2,7 +2,7 @@
 #define global
 
 #define WIN32_LEAN_AND_MEAN
-#include <iostream.h>
+#include <iostream>
 #include <utils.h>
 #include <apstring.h>
 #include "cnetwork.h"

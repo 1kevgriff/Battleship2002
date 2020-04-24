@@ -7,8 +7,8 @@
 #include <windows.h>
 #include <conio.h>
 #include <stdarg.h>
-#include <iostream.h>
-#include <iomanip.h>
+#include <iostream>
+#include <iomanip>
 #include <string.h>
 
 void clrscr()
